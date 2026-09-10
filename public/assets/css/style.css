@@ -1,0 +1,6 @@
+/* Small custom overrides on top of Tailwind */
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+main { padding-bottom: 60px; }
+
+/* Simple table tweaks */
+table th { font-weight: 600; }

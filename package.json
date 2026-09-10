@@ -1,0 +1,14 @@
+{
+  "name": "pcals",
+  "version": "1.0.0",
+  "description": "Planter's Cash Advance & Loan System - frontend asset build",
+  "private": true,
+  "scripts": {
+    "build:css": "tailwindcss -i src/input.css -o public/assets/css/output.css --minify",
+    "build": "npm run build:css",
+    "dev": "tailwindcss -i src/input.css -o public/assets/css/output.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}

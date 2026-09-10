@@ -1,0 +1,35 @@
+# Dependencies
+/vendor/
+/node_modules/
+/consent_system/vendor/
+
+# Sensitive files — must NEVER be committed (credentials, config secrets)
+.env
+*.env
+.env.*
+!.env.example
+config/database.php
+config/config.php
+config/credentials.php
+config/secrets.php
+/config/db.php
+
+# Uploaded / generated files
+/consent_system/files/
+uploads/
+public/uploads/
+sql/*.sql
+
+# Logs
+*.log
+
+# Build artifacts
+/public/assets/css/output.css
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
