@@ -75,7 +75,7 @@ This application is packaged as a standalone Windows desktop app using [phpdeskt
 
 Download the pre-built Windows package:
 
-> **[Download pcals-windows.zip](#)** *(placeholder link — release package coming soon)*
+[**⬇️ Download PCALS for Windows**](https://github.com/knots11521/Pcals/releases/download/v.1/YOUR-FILENAME.zip)
 
 After downloading:
 1. Extract `pcals-windows.zip` to a folder of your choice.
