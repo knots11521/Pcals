@@ -133,6 +133,3 @@ pcals/
 | `DB_USER`   | Database username      | `root`           |
 | `DB_PASS`   | Database password      | *(your password)*|
 
-## License
-
-This project is licensed under the MIT License. See `composer.json` for license details.
